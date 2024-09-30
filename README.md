@@ -33,7 +33,7 @@ The key concept behind the parallax effect in this project is the use of `transl
 
 1. Clone the repository:
    ```bash
-   git clone gh repo clone Aditi-789/Parallex_Website
+   git clone https://github.com/Aditi-789/Parallex_Website.git
    ```
 2. Open `index.html` in your web browser.
 
