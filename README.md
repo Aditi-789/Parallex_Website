@@ -44,6 +44,11 @@ Here's a quick preview of the website:
 - **Adventure Time**: Title section with the main parallax effect.
 - **Sports Sections**: Scroll through different adventure sports like Biking, Para Gliding, and Surfing with parallax effects.
 
+## Deployed Version
+
+You can view the live project [here](https://aditi-789.github.io/Parallex_Website/).
+
+
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/f6a05b9c-e8ff-4e9c-9220-cbf9d3a0d924)
